@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+`apt-get -y install maxima`
+
 # sync output
 $stdout.sync = true
 
